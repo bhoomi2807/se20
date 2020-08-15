@@ -47,3 +47,7 @@ A code of conduct defines standards for how to engage in a community. It signals
 ## what is DOI?
 
 Zenodo is a platform where you can permanently archive your code and other project elementsZenodo does this by assigning projects a Digital Object Identifier (DOI), which also helps to make the work more citable.
+
+## what is setup.py?
+
+setup.py tells what module/package you are about to install. It allows you to easily install Python package.
