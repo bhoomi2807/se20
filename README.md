@@ -50,4 +50,4 @@ Zenodo is a platform where you can permanently archive your code and other proje
 
 ## what is setup.py?
 
-setup.py tells what module/package you are about to install. It allows you to easily install Python package.
+setup.py tells what module/package you are about to install. It allows you to easily install Python package
